@@ -28,6 +28,7 @@ void signal_handler(int sig)
 	}
 }
 
+/* sequence by Levent Karakas */
 void daemonize()
 {
 	int i,lfp;
